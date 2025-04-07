@@ -12,12 +12,16 @@ const config = {
         light: "#f8f9fa",
         dark: "#343a40",
       },
+      fontFamily: {
+        sans: ["var(--font-inter)", "sans-serif"],
+      },
       spacing: {
         12: "3rem",
       },
-      fontFamily: {
-        sans: ["Inter", "ui-sans-serif", "system-ui"],
-      },
+      screens: {
+     
+  
+      }
     },
   },
 };

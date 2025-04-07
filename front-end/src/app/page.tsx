@@ -1,8 +1,8 @@
-import Image from "next/image";
-
+import { Category } from "./Components/Category";
 export default function Home() {
   return (
     <div>
+      <Category />
     </div>
   );
 }
